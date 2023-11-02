@@ -58,3 +58,14 @@ input{
     flex-direction: row;
 
 }
+
+.profilePosts{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.profileDisplay{
+    display: flex;
+    flex-direction: row;
+}
