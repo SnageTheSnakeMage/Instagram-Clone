@@ -1,0 +1,60 @@
+
+.header {
+    display: flex;
+    justify-content: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+
+}
+.fheader{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    border-color: rgb(207, 207, 207);
+    border-bottom: 2px solid ;
+
+}
+.fpost{
+    display: flex;
+    justify-content: center;
+
+}
+
+#stack{
+    display: flex;
+    flex-direction: column;
+}
+.post-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.login{
+    
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    
+}
+#submit{
+    margin: 25px;
+}
+input{
+    background-color: rgb(207, 207, 207);
+}
+
+#center{
+    display: flex;
+    justify-content: center;
+}
+.likes{
+    display: flex;
+    align-items: center;
+}
+.comment{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+}
